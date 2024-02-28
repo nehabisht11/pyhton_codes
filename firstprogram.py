@@ -34,7 +34,10 @@ print(A//B)'''
 
 '''A,B =7,-2
 print(A/B)#gives negetive value  wfen denominator is negative and numerator is positive '''
-print("hellow world")
+print("hellow ueueueue world")
+hjdlals
+hlas
+jlaskjd;fj
 
 
 
